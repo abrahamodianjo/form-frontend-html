@@ -1,0 +1,23 @@
+align-to-right {
+    float: right;
+
+}  
+.shadow-primary {
+    box-shadow: 0 10px 10px rgba(0,0,0,.2);
+  }
+  
+  .extra-rounded-border {
+    border-radius: 10px !important;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+  
+  }
+
+  .move-right{
+    position: fixed;
+    right: 50px;
+  }
